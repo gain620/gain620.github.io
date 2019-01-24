@@ -9,19 +9,19 @@ toc: true
 Advocate of new technologies.
 
 Proficent in:
-Korean (A native speaker)
-English (Not a native level)
-Problem Solving
-Can utilize version control systems like, Git
-C/C++/STL/Qt Framework
+- Korean (A native speaker)
+- English (Not a native level)
+- Problem Solving
+- Can utilize version control systems like, Git
+- C/C++/STL/Qt Framework
 
 Experiences in:
-C++ 11/14
-AWS Lambda (Serverless tech)
-NodeJS
-MongoDB
-Javascript(ES6)
-GraphQL + ApolloServer2.0
+- C++ 11/14
+- AWS Lambda (Serverless tech)
+- NodeJS
+- MongoDB
+- Javascript(ES6)
+- GraphQL + ApolloServer2.0
 
 Has some overseas experiences (went to elementary, middle schools in Sweden)
 
@@ -43,5 +43,5 @@ Projects I have worked on:
 5. QA tester for Korean indie game called "Retsnom"
 
 Certificates:
-AWS Solutions Architect Associate
-Engineer Information Processing (Human Resources Development Service of Korea)
+- AWS Solutions Architect Associate
+- Engineer Information Processing (Human Resources Development Service of Korea)
