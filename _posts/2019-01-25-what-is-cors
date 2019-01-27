@@ -1,0 +1,26 @@
+---
+published: true
+layout: single
+title: "What is CORS?"
+date: 2019-01-25
+category: post
+tags: [web, programming, javascript]
+comments: true
+---
+
+First of all, what does CORS mean?
+
+It stands for Cross-Origin Resource Sharing.
+
+It is a concept that every web developers should know, and is a fundamental thing for modern webs.
+
+원래, client에서 서버(도메인)에게 자바스크립트를 XMLHttpRequest를 통해 요청했을때, 서버 외의 다른 도메인으로부터는 자바스크립트를 받아오지 못한다.(Same origin policy, 보안정책 for security reasons)
+
+그래서, 과거에는 요청을 받은 서버가 proxy가 되어 다른 도메인으로부터 리소스를 받아와서 전달해주는 방식을 사용.
+
+하지만,
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/CORS_principle.png" alt="cors_principle">
+
+Reference: 
+**https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS**
