@@ -9,7 +9,7 @@ comments: true
 ---
 
 You can checkout this chrome plugin to load custom scripts
-**https://chrome.google.com/webstore/detail/odm-sandbox-custom-script/fjnjnmopbmckmaphgcecmabflgnpnfif**
+**[ODM Sandbox](https://chrome.google.com/webstore/detail/odm-sandbox-custom-script/fjnjnmopbmckmaphgcecmabflgnpnfif)**
 
 ```js
 let targetHost = '';

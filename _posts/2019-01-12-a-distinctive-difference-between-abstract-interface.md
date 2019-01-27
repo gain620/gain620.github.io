@@ -9,7 +9,7 @@ comments: true
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/man.jpg" alt="abstract class">
 
-##Abstract class:
+## Abstract class:
 - can't be instantiated.
 - is a special class which you can have some members without any implementations.
 - usually used for framework library classes. (utilizes IoC, which it provides some default methods but enforces the programmer to implement the rest stuffs)
@@ -73,7 +73,7 @@ private:
 };
 ```
 
-##Interface:
+## Interface:
 - can't be instantiated.
 - is a special class which you have no members that have any implementations.
 - A class that implements an Interface need to contain all the implementation, otherwise the compiler will throw an error.

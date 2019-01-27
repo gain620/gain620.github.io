@@ -7,7 +7,7 @@ tags: [c++, programming, git, gitignore]
 comments: true
 ---
 
-##"Sometimes, you push a large number of files inadvertently, that were not meant to be pushed to the remote repository. You may try adding a new .gitignore file, but it just won't work. Too late!":
+## "Sometimes, you push a large number of files inadvertently, that were not meant to be pushed to the remote repository. You may try adding a new .gitignore file, but it just won't work. Too late!" :
 
 Since, I myself being a junior programmer and not 100% comfortable using Git yet, I often make these mistakes.
 
