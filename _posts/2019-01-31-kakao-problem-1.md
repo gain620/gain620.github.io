@@ -10,8 +10,9 @@ comments: true
 
 ## 2019 Kakao coding interview problem #1
 
-**https://www.welcomekakao.com/learn/courses/30/lessons/42888**
+**[Problem #1 link](https://www.welcomekakao.com/learn/courses/30/lessons/42888)**
 
+*my solution:*
 ```cpp
 #include <string>
 #include <vector>
