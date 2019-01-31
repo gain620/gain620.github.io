@@ -53,6 +53,8 @@ int main()
 }
 ```
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/console.jpg" alt="abstract class">
+**this is what happens if you don't clear bad bits from the stream**
 
 Reference:
 [https://en.cppreference.com/w/cpp/io/basic_istream/getline]

@@ -1,0 +1,13 @@
+---
+published: true
+layout: single
+title: "What is RAII?"
+date: 2019-01-29
+category: post
+tags: [c++, programming, memory]
+comments: true
+---
+
+https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization
+
+https://blog.seulgi.kim/2014/01/raii.html

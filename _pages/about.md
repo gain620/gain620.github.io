@@ -10,7 +10,7 @@ Advocate of new technologies.
 
 Proficent in:
 - Korean (A native speaker)
-- English (Not a native level)
+- English (Semi-native speaker)
 - Problem Solving
 - Can utilize version control systems like, Git
 - C/C++/STL/Qt Framework
@@ -22,7 +22,7 @@ Experiences in:
 - MongoDB
 - Javascript(ES6)
 - GraphQL + ApolloServer2.0
-- Managed IT infrastructure(firewalls, IPS, web servers, etc) at Korean army (2 years)
+- Managed IT infrastructures(firewalls, IPS, web servers, etc) at Korean army (2 years)
 
 Educations:
 - Has some overseas experiences (went to elementary, middle schools in Sweden)
