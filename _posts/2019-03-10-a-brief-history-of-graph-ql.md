@@ -7,3 +7,4 @@ category: post
 tags: [web, programming, graphql]
 comments: true
 ---
+https://www.youtube.com/watch?v=F-OizdRJh1U
