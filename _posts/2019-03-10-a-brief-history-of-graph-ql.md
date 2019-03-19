@@ -7,6 +7,4 @@ category: post
 tags: [web, programming, graphql]
 comments: true
 ---
-{% include youtube.html id=dQw4w9WgXcQ %}
-
-https://www.youtube.com/watch?v=F-OizdRJh1U
+{% include youtube.html id=F-OizdRJh1U %}

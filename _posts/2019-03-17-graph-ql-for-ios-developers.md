@@ -7,5 +7,4 @@ category: post
 tags: [web, programming, graphql, ios, swift]
 comments: true
 ---
-
-https://www.youtube.com/watch?v=4o59zEna9gQ
+{% include youtube.html id=4o59zEna9gQ %}
