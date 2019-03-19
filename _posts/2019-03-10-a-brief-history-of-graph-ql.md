@@ -7,4 +7,5 @@ category: post
 tags: [web, programming, graphql]
 comments: true
 ---
+{% youtube F-OizdRJh1U %}
 https://www.youtube.com/watch?v=F-OizdRJh1U
