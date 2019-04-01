@@ -7,4 +7,4 @@ category: post
 tags: [web, programming, graphql]
 comments: true
 ---
-{% include youtube.html id=F-OizdRJh1U %}
+{% include video id="F-OizdRJh1U" provider="youtube" %}

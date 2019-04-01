@@ -7,4 +7,4 @@ category: post
 tags: [web, programming, graphql, ios, swift]
 comments: true
 ---
-{% include youtube.html id=4o59zEna9gQ %}
+{% include video id="4o59zEna9gQ" provider="youtube" %}
