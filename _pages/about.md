@@ -12,17 +12,16 @@ Proficent in:
 - Korean (A native speaker)
 - English (Semi-native speaker)
 - Problem Solving
+- Swift
 - Can utilize version control systems like, Git
-- C/C++/STL/Qt Framework
 
 Experiences in:
 - C++ 11/14
 - AWS Lambda (Serverless tech)
 - NodeJS
 - MongoDB
-- Javascript(ES6)
-- GraphQL + ApolloServer2.0
-- Managed IT infrastructures(firewalls, IPS, web servers, etc) at Korean army (2 years)
+- GraphQL
+- Managed IT infrastructures(firewalls, IPS, web servers, etc) in Korean army (2 years)
 
 Educations:
 - Has some overseas experiences (went to elementary, middle schools in Sweden)
@@ -42,3 +41,4 @@ Projects I have worked on:
 Certificates:
 - AWS Solutions Architect Associate
 - Engineer Information Processing (Human Resources Development Service of Korea)
+- A TOEIC score of 990
