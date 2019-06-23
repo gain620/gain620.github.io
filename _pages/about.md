@@ -12,14 +12,13 @@ Proficent in:
 - Korean (A native speaker)
 - English (Semi-native speaker)
 - Problem Solving
-- Swift
+- Swift / iOS
+- AWS
 - Can utilize version control systems like, Git
 
 Experiences in:
 - C++ 11/14
-- AWS Lambda (Serverless tech)
 - NodeJS
-- MongoDB
 - GraphQL
 - Managed IT infrastructures(firewalls, IPS, web servers, etc) in Korean army (2 years)
 
@@ -37,6 +36,8 @@ Projects I have worked on:
 4. "Stanley Parable" English to Korean translation
 
 5. QA tester for Korean indie game called "Retsnom"
+
+6. WebRTC based P2P online streaming service
 
 Certificates:
 - AWS Solutions Architect Associate
