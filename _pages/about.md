@@ -18,7 +18,7 @@ Proficent in:
 - Docker / Kubernetes
 - Can utilize version control systems like, Git
 
-Work Experience:
+Work Experiences:
 
 - Managed IT infrastructures in Korean army (2 years)
 - KT Cloud Engineer Intern (2019.07 ~ 2019.08)
